@@ -4,13 +4,16 @@ def soal_pertama(n):
 
     for i in range(0, n):
         words = input()
-        data.append(words)    
+        data.append(words)
 
+    aset = set()
     dup_first = ''
-    for x in data:
-        if data.count(x)>1:
-            dup_first = x
+    for i in data:
+        if i in aset:
+            dup_first = i
             break
+        else:   
+            aset.add(i)
 
     for i in range(len(data)):
         if data[i] == dup_first:
