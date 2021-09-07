@@ -4,7 +4,7 @@
 
 **How to run file soal_pertama.py :**
 
-[![Screen-Shot-2021-09-07-at-13-48-59.png](https://i.postimg.cc/HnCJ1qS4/Screen-Shot-2021-09-07-at-13-48-59.png)](https://postimg.cc/BLMZxVfX)
+[![Screen-Shot-2021-09-07-at-16-10-32.png](https://i.postimg.cc/6QfJK0sZ/Screen-Shot-2021-09-07-at-16-10-32.png)](https://postimg.cc/1gXYcD3R)
 
 **How to run file soal_kedua.py :**
 
